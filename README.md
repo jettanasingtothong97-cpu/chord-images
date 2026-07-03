@@ -1,2 +1,0 @@
-# chord-images
-noisechord.com
